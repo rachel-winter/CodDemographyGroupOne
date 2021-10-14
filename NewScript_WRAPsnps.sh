@@ -1,4 +1,7 @@
-###Cod Demography
+**Cod Demography**
+*by Group 1*
+
+
 
 ######################
 #### Select SNPs #####
