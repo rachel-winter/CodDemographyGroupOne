@@ -54,8 +54,7 @@ python /cluster/projects/nn9987k/Seachanges/BAMscorer_v1_linux select_snps $VCF 
 #### Score Bams #####
 #####################
 
-
 Reference-style: 
 ![alt text][logo]
 
-[logo]: https://lh3.googleusercontent.com/FbiRJs0EAudHovAShGc09n2oQ0za3E6E2wZ4I-xQi_6NyeAXz8Elz-BMu9-l1WO2Gvg0WC9T1PASNnFEf1mzcGkl4hsrY361rEATUI7eSFhyHk6p=w1280
+[logo]: (https://lh3.googleusercontent.com/FbiRJs0EAudHovAShGc09n2oQ0za3E6E2wZ4I-xQi_6NyeAXz8Elz-BMu9-l1WO2Gvg0WC9T1PASNnFEf1mzcGkl4hsrY361rEATUI7eSFhyHk6p=w1280) "Logo Title Text 2"
